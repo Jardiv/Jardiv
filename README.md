@@ -3,11 +3,14 @@
 
 <div>
   <h3>About Me</h3>
-  <ul>
-    <li>A first year student taking BSIT course.</li>
-    <l1>Lerning Java, C++ and PHP</l1>
-    <li></li>
-  </ul>
+  <p>A first year student taking BSIT course. Dreaming of becooming a Game Dev or App Dev. </p>
+  <p>Currently Studying
+    <ul>
+      <li>Java</li>
+      <li>PHP</li>
+      <li>C++</li>
+    </ul>
+  </p>
 </div>
 
 <!---
