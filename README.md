@@ -1,10 +1,14 @@
 
-<h1>Hello</h1>
+<h1>Hello, I'm Jardiv</h1>
 
-- 👋 Hi, I’m @Jardiv
-- 👀 I’m interested in Game and App Development
-- 🌱 I’m currently learning Java, C++ and PHP
-- 
+<div>
+  <h3>About Me</h3>
+  <ul>
+    <li>A first year student taking BSIT course.</li>
+    <l1>Lerning Java, C++ and PHP</l1>
+    <li></li>
+  </ul>
+</div>
 
 <!---
 Jardiv/Jardiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
