@@ -15,7 +15,6 @@
       <li>Python</li>
       <li>SQL</li>
       <li>Javascript</li>
-      <li>Dart</li>
     </ul>
   </p>
 </div>
