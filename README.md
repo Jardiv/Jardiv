@@ -3,24 +3,8 @@
 
 <div>
   <h3>About Me</h3>
-  <p>A first year student taking BSIT course. Dreaming of becooming a Game Dev or App Dev. </p>
-  <div>
-  Currently Studying:
-    <ul>
-      <li>Java</li>
-      <li>PHP</li>
-      <li>C++</li>
-    </ul>
-  Little Learning of:
-    <ul>
-      <li>Python</li>
-      <li>SQL</li>
-      <li>Javascript</li>
-    </ul>
-  </div>
+  <p>A student taking BSIT course. Dreaming of becooming a Game Dev or App Dev. </p>
 </div>
-
-New to GitHub
 
 
 <!---
