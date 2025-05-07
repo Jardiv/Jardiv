@@ -1,5 +1,5 @@
 
-<h1>Hello, I'm Jardiv</h1>
+<h1>Hello, I'm Jearuu / Jardiv</h1>
 
 <div>
   <h3>About Me</h3>
